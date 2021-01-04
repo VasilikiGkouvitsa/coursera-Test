@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hello coursera</title>
+<link rel="stylesheet" href="module2-solution.css">
+</head>
+<body>
+ <h1> Our Menu</h1>
 
+
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-3 ">
+      <section id="section1">
+        <div id="p0"> Chicken</div>
+        <p> Chicken Mexican Chicken Stew .Bring a touch of Mexican flavour to your midweek meal with this low-fat, one-pan supper</p>
+      </section>
+     </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 "> 
+        <section id="section2">
+          <div id="p1">Beef</div>
+         <p >Holiday mini beef ball .These ground beef and zucchini mini meatballs are perfect for any holiday party.. This Beef. It's What's For Dinner. recipe is certified by the American Heart Association </p>
+       </section>
+       </div>
+      <div class=" col-xs-12 col-sm-6 col-md-3 ">
+        <section id="section3">
+         <div id="p2">Sushi</div>
+         <p>You can pick up your staples at your local asian food market or in your grocery store’s international food aisle.</p>
+       </section>
+       </div>
+</div>
+ </body>
+</html>
